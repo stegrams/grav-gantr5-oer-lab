@@ -34,9 +34,12 @@ On the far-right of your site menubar there will be a reminder displayed to comp
 ## Creative Commons License Particle Options
 ![](/assets/cc-license-options.png)
 
-## Video Demo
+## Gantry 5 Layout Manager
+![](/assets/layout-manager.png)
+_Image courtesy of [gantry.org](http://gantry.org/)_ 
+
+## OER Content Space Skeleton Demo
 [![OER Content Sharing/Editing Skeleton Demo ](/assets/video.png)](http://www.youtube.com/watch?v=Tt9KvCLqp84 "Grav CMS Gantry 5 OER Content Skeleton Sharing/Editing Demo ")  
-_Video 1. OER Content Space Skeleton Demo_  
 
 ## Page Header Options
 The included 'Edit/View Page in Git' particle supports the following page header options:
