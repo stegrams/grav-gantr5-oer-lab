@@ -1,9 +1,15 @@
 name: Edit/View Page in Git
 description: Displays a link to Grav pages in a Git Repo on the front-end.
 type: particle
+icon: fa-git
 
 form:
   fields:
+    infotext:
+      type: separator.note
+      class: alert alert-info
+      content: '<p>Have you installed and setup the Git Sync plugin? If not, do that first and then configure this Particle.</p>'
+
     git_repo_link_text:
       type: input.text
       size: medium
@@ -25,10 +31,14 @@ form:
             type: text
 
     git_repo_tree_url:
-        type: text
-        size: large
-        label: Git Repository Tree URL
+        type: input.url
+        label: Git Repository Tree URL (not including '/pages/...')
         help: URL path to Git repository, up to but not including '/pages/...'.
         description: URL path to Git repository, up to but not including '/pages/...'.
         validate:
             type: URL
+
+    infotext:
+      type: separator.note
+      class: none
+      content: '<p>Have you installed and setup the Git Sync plugin? If not, do that first and then setup this Particle.</p>'
