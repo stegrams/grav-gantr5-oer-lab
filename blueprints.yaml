@@ -1,0 +1,13 @@
+name: Gantry OER Content Site
+version: 0.9.0
+description: "Gantry 5 OER Content skeleton package, designed to share and collaboratively edit Open Educational Resources content using seamless GitHub/GitLab syncing."
+icon: university
+author:
+ name: Paul Hibbitts
+ email: paul@paulhibbitts.org
+ url: http://hibbittsdesign.org
+homepage: https://github.com/hibbitts-design/grav-skeleton-gantry-open-blog
+demo: http://demo.hibbittsdesign.org/grav-skeleton-gantry-oer-content-site/
+keywords: gantry, theme, responsive, oer, open
+bugs: https://github.com/hibbitts-design/grav-skeleton-gantry-open-blog/issues
+license: MIT

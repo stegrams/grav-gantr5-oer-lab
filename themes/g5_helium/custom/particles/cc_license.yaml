@@ -1,0 +1,23 @@
+name: CC License
+description: Displays a link to the chosen Creative Commons License.
+type: particle
+
+form:
+  fields:
+    cc_license_type:
+      type: select.selectize
+      label: CC License
+      default: ccby
+      size: long
+      options:
+          ccby: 'CC Attribution'
+          ccbysa: 'CC Attribution Share Alike'
+          ccbynd: 'CC Attribution No Derivatives'
+          ccbync: 'CC Attribution Non-Commercial'
+          ccbyncsa: 'CC Attribution Non-Commercial Share Alike'
+          ccbyncnd: 'CC Attribution Non-Commercial No Derivatives'
+
+    infotext:
+      type: separator.note
+      class: none
+      content: '<p>Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.</p>'

@@ -1,0 +1,12 @@
+# Grav Specific
+accounts/*
+!accounts/.*
+plugins/*
+!plugins/.*
+
+# OS Generated
+.DS_Store*
+thumbs.db
+Icon?
+Thumbs.db
+*.swp

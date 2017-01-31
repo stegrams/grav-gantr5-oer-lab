@@ -1,0 +1,14 @@
+meta: {  }
+head_bottom: ''
+atoms:
+  -
+    id: assets-1991
+    type: assets
+    title: 'Custom CSS / JS'
+    attributes:
+      enabled: '1'
+      css:
+        - { location: '', inline: ".git-edit .g-content {\n    margin: 0.26rem;\n}", extra: {  }, priority: '0', name: 'Edit in Git Menu' }
+        - { location: '', inline: ".radio {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Radios' }
+        - { location: '', inline: ".checkboxes {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Checkboxes' }
+      javascript: {  }

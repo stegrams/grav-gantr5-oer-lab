@@ -1,0 +1,34 @@
+name: Edit/View Page in Git
+description: Displays a link to Grav pages in a Git Repo on the front-end.
+type: particle
+
+form:
+  fields:
+    git_repo_link_text:
+      type: input.text
+      size: medium
+      label: Link Text
+      default: 'Edit this Page'
+      help: Enter the text label for the link.
+      description: Enter the text to be used for the link.
+      validate:
+          type: text
+
+    git_repo_link_icon:
+        type: input.text
+        size: small
+        label: Font Awesome Icon
+        default: 'github'
+        help: Enter the short name of the Font Awesome icon for the link, for example 'gitlab'.
+        description: Enter the short name of the Font Awesome icon for the link, for example 'gitlab'.
+        validate:
+            type: text
+
+    git_repo_tree_url:
+        type: text
+        size: large
+        label: Git Repository Tree URL
+        help: URL path to Git repository, up to but not including '/pages/...'.
+        description: URL path to Git repository, up to but not including '/pages/...'.
+        validate:
+            type: URL

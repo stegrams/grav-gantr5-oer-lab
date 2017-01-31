@@ -1,0 +1,34 @@
+settings:
+  title: Mainmenu
+ordering:
+  home: ''
+  sample-page: ''
+  sample-blog:
+    blog-item-1: ''
+    blog-item-2: ''
+    blog-item-3: ''
+  setup-guide: ''
+items:
+  home:
+    enabled: true
+    anchor_class: ''
+  sample-page:
+    enabled: true
+    anchor_class: ''
+  sample-blog:
+    enabled: '1'
+    dropdown_dir: right
+    dropdown_hide: '1'
+    width: auto
+  sample-blog/blog-item-1:
+    enabled: true
+    anchor_class: ''
+  sample-blog/blog-item-2:
+    enabled: true
+    anchor_class: ''
+  sample-blog/blog-item-3:
+    enabled: true
+    anchor_class: ''
+  setup-guide:
+    enabled: true
+    anchor_class: ''

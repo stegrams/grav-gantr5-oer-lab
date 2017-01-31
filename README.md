@@ -1,0 +1,56 @@
+# OER Content Space Skeleton
+
+[![Demo](https://img.shields.io/badge/Demo-OERContent-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-skeleton-gantry-oer-content-site/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-gantry-oer-content/blob/master/LICENSE)
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-edu)
+
+The *OER Content Space* skeleton package is designed to share and collaboratively update [Markdown-based](http://commonmark.org/help/) Open Educational Resources content using seamless GitHub/GitLab syncing. This package includes the [Gantry](http://gantry.org/) framework and and two Gantry themes (*Hydrogen* and *Helium*) as well as the Gantry particles [Edit/View Page in Git](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) and [Creative Commons License](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed.
+
+![](screenshot.jpg)
+
+# Installing the OER Content Space Site
+## Web Install
+**Pre-flight Checklist**  
+1. Confirm Webserver PHP version (PHP 5.5.9 or higher)  
+2. Webserver login credentials (username and password)  
+
+**Installation Steps**  
+1. Download the ready-to-run [OER Content Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-oer-content-space-site.zip)  
+2. Unzip the package onto your desktop  
+3. Copy the _entire_ OER Content Space site folder to your Webserver  
+4. Point your browser to the Webserver folder  
+5. Create your site administrator account when prompted  
+6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
+
+## Git Sync Configuration
+On the far-right of your site menubar there will be a reminder displayed to complete the two steps to enable GitHub/GitLab syncing and editing of your site content. First tap on the ```Setup Git Sync Plugin (Step 1 of 2)``` menubar link, complete the displayed setup wizard, then return to viewing your site and tap the ```Setup Edit Page in Git Link (Step of 2)``` menubar link and provide the base URL to your created Git repository.
+
+# Configuration Option
+
+## Edit/View Page in Git Particle Options
+![](/assets/edit-view-this-page-options.png)
+
+## Creative Commons License Particle Options
+![](/assets/cc-license-options.png)
+
+## Video Demo
+[![OER Content Sharing/Editing Skeleton Demo ](/assets/video.png)](http://www.youtube.com/watch?v=Tt9KvCLqp84 "Grav CMS Gantry 5 OER Content Skeleton Sharing/Editing Demo ")  
+_Video 1. OER Content Space Skeleton Demo_  
+
+## Page Header Options
+The included 'Edit/View Page in Git' particle supports the following page header options:
+```
+hide_git_repo_link: true    # hide Git Repository edit link for this page, up to but not including the '/pages/...' For example, 'https://github.com/paulhibbitts/grav-skeleton-gantry-oer-content/tree/master'.  
+git_repo_link_url: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated Git Repository URL
+git_repo_link_text: View in Markdown   # to override the default URL text label
+```
+
+## Site Config Options
+The included 'Edit/View Page in Git' particle supports the following site config option:
+
+```
+hide_git_repo_link_pages:    # list of pages to hide Git Repository edit link on
+    - login
+    - logout                        
+```

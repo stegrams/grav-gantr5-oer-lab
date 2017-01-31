@@ -1,0 +1,51 @@
+title: OER Hydrogen Options
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        options:
+          type: tab
+
+          fields:
+
+            OER:
+                type: section
+                title: Edit Page in Git Options
+                underline: true
+
+            header.hide_git_repo_link:
+                type: toggle
+                label: Display Git Repository Edit Page Link
+                help: Determines if the Git Repository edit Page link is displayed for this page
+                default: 0
+                highlight: 0
+                options:
+                    0:  Yes
+                    1:  No
+                validate:
+                    type: bool
+
+            header.git_repo_link_url:
+                type: text
+                size: large
+                label: Custom Git Repository Page URL
+                help: Custom Git Repository URL for this page, to override the automatically calculated URL
+                default: null
+                validate:
+                    type: URL
+
+            header.git_repo_link_text:
+                type: text
+                size: medium
+                label: Custom Git Repository Page Link Text
+                help: Custom Git Repository link text for this page, to override the default text label
+                default: null
+                validate:
+                    type: text
