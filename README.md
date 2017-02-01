@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-OERContent-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-skeleton-gantry-oer-content-site/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-gantry-oer-content/blob/master/LICENSE)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-edu)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-open-edu)
 
 The *OER Content Space* skeleton package is designed to share and collaboratively update [Markdown-based](http://commonmark.org/help/) Open Educational Resources content using seamless GitHub/GitLab syncing. This package includes the [Gantry](http://gantry.org/) framework and and two Gantry themes (*Hydrogen* and *Helium*) as well as the Gantry particles [Edit/View Page in Git](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) and [Creative Commons License](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed.
 
@@ -36,7 +36,7 @@ On the far-right of your site menubar there will be a reminder displayed to comp
 
 ## Gantry 5 Layout Manager
 ![](/assets/layout-manager.png)
-_Image courtesy of [gantry.org](http://gantry.org/)_ 
+_Image courtesy of [gantry.org](http://gantry.org/)_
 
 ## OER Content Space Skeleton Demo
 [![OER Content Sharing/Editing Skeleton Demo ](/assets/video.png)](http://www.youtube.com/watch?v=Tt9KvCLqp84 "Grav CMS Gantry 5 OER Content Skeleton Sharing/Editing Demo ")  
