@@ -1,17 +1,26 @@
 ---
 title: 'Blog Page'
-blog_url: blog
+hide_git_repo_link: false
 sitemap:
     changefreq: monthly
-    priority: 1.03
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
 content:
     items: '@self.children'
+    leading: 0
+    columns: 2
+    limit: 10
     order:
         by: date
         dir: desc
-    limit: 5
+    show_date: false
     pagination: true
-    show_date: 0
+    url_taxonomy_filters: true
+blog_url: blog
 feed:
     description: 'Sample Blog Description'
     limit: 10
