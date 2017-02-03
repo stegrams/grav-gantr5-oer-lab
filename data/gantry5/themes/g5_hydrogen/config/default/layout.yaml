@@ -2,33 +2,32 @@ version: 2
 preset:
   image: 'gantry-admin://images/layouts/default.png'
   name: default
-  timestamp: 1485645719
+  timestamp: 1486141414
 layout:
   /header/:
     -
-      - 'logo-2843 30'
+      - 'logo-9853 30'
       - 'position-header 70'
   /navigation/:
     -
-      - 'menu-9182 67'
-      - 'edit_view_page_in_git-4460 33'
+      - menu-8987
   /main/:
     -
       - position-breadcrumbs
     -
-      - system-messages-6459
+      - system-messages-5538
     -
-      - system-content-3570
+      - system-content-6285
   /footer/:
     -
       - position-footer
     -
-      - 'cc_license-8818 40'
-      - 'spacer-8764 30'
-      - 'branding-2958 30'
+      - 'copyright-5978 40'
+      - 'spacer-6735 30'
+      - 'branding-7553 30'
   offcanvas:
     -
-      - mobile-menu-7745
+      - mobile-menu-9370
 structure:
   header:
     attributes:
@@ -47,19 +46,9 @@ content:
   position-header:
     attributes:
       key: header
-  menu-9182:
-    block:
-      variations: align-left
-  edit_view_page_in_git-4460:
-    title: 'Edit/View Page in Git'
-    block:
-      class: git-edit
-      variations: align-right
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
   position-footer:
     attributes:
       key: footer
-  cc_license-8818:
-    title: 'CC License'

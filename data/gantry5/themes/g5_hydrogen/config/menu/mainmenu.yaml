@@ -4,8 +4,9 @@ ordering:
   home: ''
   basic-page: ''
   blog-page: ''
-  modular-sample: ''
+  modular-page: ''
   setup-guide: ''
+  __particle-IS7Jo: ''
 items:
   home:
     enabled: true
@@ -13,12 +14,26 @@ items:
   basic-page:
     enabled: true
     anchor_class: ''
-  modular-sample:
-    enabled: true
-    anchor_class: ''
   blog-page:
     enabled: true
     anchor_class: ''
+  modular-page:
+    enabled: true
+    anchor_class: ''
   setup-guide:
+    enabled: true
+    anchor_class: ''
+  __particle-IS7Jo:
+    type: particle
+    particle: edit_view_page_in_git
+    title: 'Edit/View Page in Git'
+    options:
+      particle:
+        git_repo_link_text: 'Edit this Page'
+        git_repo_link_icon: github
+        git_repo_tree_url: ''
+        enabled: 1
+      block:
+        extra: {  }
     enabled: true
     anchor_class: ''
