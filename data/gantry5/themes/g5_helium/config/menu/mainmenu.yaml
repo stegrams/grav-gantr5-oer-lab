@@ -4,7 +4,7 @@ ordering:
   home: ''
   basic-page: ''
   blog-page: ''
-  modular-sample: ''
+  modular-page: ''
   setup-guide: ''
 items:
   home:
@@ -16,7 +16,7 @@ items:
   blog-page:
     enabled: true
     anchor_class: ''
-  modular-sample:
+  modular-page:
     enabled: true
     anchor_class: ''
   setup-guide:
