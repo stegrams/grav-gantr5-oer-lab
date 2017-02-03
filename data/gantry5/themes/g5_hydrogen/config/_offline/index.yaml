@@ -1,0 +1,30 @@
+name: _offline
+timestamp: 1486142989
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/offline.png'
+  name: _offline
+  timestamp: 1486141414
+positions:
+  footer: Footer
+sections:
+  header: Header
+  main: Main
+  footer: Footer
+particles:
+  logo:
+    logo-9150: Logo
+  spacer:
+    spacer-4216: Spacer
+    spacer-2793: Spacer
+  messages:
+    system-messages-7365: 'System Messages'
+  content:
+    system-content-2535: 'Page Content'
+  position:
+    position-footer: Footer
+  copyright:
+    copyright-6682: Copyright
+  branding:
+    branding-8049: Branding
+inherit: {  }

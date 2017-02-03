@@ -10,7 +10,8 @@ layout:
       - 'position-header 70'
   /navigation/:
     -
-      - menu-8987
+      - 'menu-8987 67'
+      - 'edit_view_page_in_git-4956 33'
   /main/:
     -
       - position-breadcrumbs
@@ -46,6 +47,13 @@ content:
   position-header:
     attributes:
       key: header
+  menu-8987:
+    block:
+      variations: align-left
+  edit_view_page_in_git-4956:
+    title: 'Edit/View Page in Git'
+    block:
+      variations: align-right
   position-breadcrumbs:
     attributes:
       key: breadcrumbs

@@ -1,5 +1,5 @@
 name: default
-timestamp: 1486141426
+timestamp: 1486143006
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -24,6 +24,8 @@ particles:
     position-footer: Footer
   menu:
     menu-8987: Menu
+  edit_view_page_in_git:
+    edit_view_page_in_git-4956: 'Edit/View Page in Git'
   messages:
     system-messages-5538: 'System Messages'
   content:
