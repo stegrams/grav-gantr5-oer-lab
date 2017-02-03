@@ -53,6 +53,7 @@ content:
   edit_view_page_in_git-4956:
     title: 'Edit/View Page in Git'
     block:
+      class: git-edit
       variations: align-right
   position-breadcrumbs:
     attributes:
