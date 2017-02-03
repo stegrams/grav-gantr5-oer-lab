@@ -2,31 +2,21 @@ settings:
   title: Mainmenu
 ordering:
   home: ''
-  sample-page: ''
-  sample-blog:
-    blog-item-1: ''
-    blog-item-2: ''
-    blog-item-3: ''
+  basic-page: ''
+  blog-page: ''
+  modular-sample: ''
   setup-guide: ''
 items:
   home:
     enabled: true
     anchor_class: ''
-  sample-page:
+  basic-page:
     enabled: true
     anchor_class: ''
-  sample-blog:
-    enabled: '1'
-    dropdown_dir: right
-    dropdown_hide: '1'
-    width: auto
-  sample-blog/blog-item-1:
+  modular-sample:
     enabled: true
     anchor_class: ''
-  sample-blog/blog-item-2:
-    enabled: true
-    anchor_class: ''
-  sample-blog/blog-item-3:
+  blog-page:
     enabled: true
     anchor_class: ''
   setup-guide:
