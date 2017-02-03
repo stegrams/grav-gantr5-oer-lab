@@ -1,6 +1,6 @@
 # OER Content Space Skeleton
 
-[![Demo](https://img.shields.io/badge/Demo-OERContent-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-oer-content-space/)
+[![Demo](https://img.shields.io/badge/Demo-OER-Content-Space-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-oer-content-space/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-gantry-oer-content/blob/master/LICENSE)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-open-edu)
