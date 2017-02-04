@@ -23,7 +23,7 @@ layout:
     -
       - position-footer
     -
-      - 'copyright-5978 40'
+      - 'cc_license-8123 40'
       - 'spacer-6735 30'
       - 'branding-7553 30'
   offcanvas:
@@ -61,3 +61,5 @@ content:
   position-footer:
     attributes:
       key: footer
+  cc_license-8123:
+    title: 'CC License'

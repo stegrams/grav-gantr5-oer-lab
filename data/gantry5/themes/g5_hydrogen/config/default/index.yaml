@@ -1,5 +1,5 @@
 name: default
-timestamp: 1486143201
+timestamp: 1486242864
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -30,8 +30,8 @@ particles:
     system-messages-5538: 'System Messages'
   content:
     system-content-6285: 'Page Content'
-  copyright:
-    copyright-5978: Copyright
+  cc_license:
+    cc_license-8123: 'CC License'
   spacer:
     spacer-6735: Spacer
   branding:
