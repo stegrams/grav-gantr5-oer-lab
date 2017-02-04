@@ -5,7 +5,7 @@ ordering:
   basic-page: ''
   blog-page: ''
   modular-sample: ''
-  page-layouts:
+  layouts:
     full-width: ''
     right-sidebar: ''
     left-sidebar: ''
@@ -23,16 +23,16 @@ items:
   modular-sample:
     enabled: true
     anchor_class: ''
-  page-layouts:
+  layouts:
     enabled: true
     anchor_class: ''
-  page-layouts/full-width:
+  layouts/full-width:
     enabled: true
     anchor_class: ''
-  page-layouts/right-sidebar:
+  layouts/right-sidebar:
     enabled: true
     anchor_class: ''
-  page-layouts/left-sidebar:
+  layouts/left-sidebar:
     enabled: true
     anchor_class: ''
   setup-guide:
