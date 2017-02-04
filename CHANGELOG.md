@@ -1,3 +1,9 @@
+# v0.9.2
+## 02/06/2017
+
+1. [](#new)
+    * Added left sidebar and right sidebar layouts
+
 # v0.9.1
 ## 02/04/2017
 

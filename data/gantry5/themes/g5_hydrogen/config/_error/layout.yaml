@@ -2,28 +2,28 @@ version: 2
 preset:
   image: 'gantry-admin://images/layouts/default.png'
   name: _error
-  timestamp: 1486141414
+  timestamp: 1485645719
 layout:
   /header/:
     -
-      - 'logo-9799 30'
-      - 'spacer-8533 70'
+      - 'logo-1375 30'
+      - 'spacer-3534 70'
   /navigation/:
     -
-      - menu-4581
+      - menu-3948
   /main/:
     -
-      - system-content-5662
+      - system-content-8160
   /footer/:
     -
       - position-footer
     -
-      - 'copyright-8120 40'
-      - 'spacer-2103 30'
-      - 'branding-5873 30'
+      - 'copyright-1817 40'
+      - 'spacer-8305 30'
+      - 'branding-8908 30'
   offcanvas:
     -
-      - mobile-menu-7469
+      - mobile-menu-2334
 structure:
   header:
     attributes:

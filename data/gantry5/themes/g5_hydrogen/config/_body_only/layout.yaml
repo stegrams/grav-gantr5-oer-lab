@@ -2,13 +2,13 @@ version: 2
 preset:
   image: 'gantry-admin://images/layouts/body-only.png'
   name: _body_only
-  timestamp: 1486141414
+  timestamp: 1485645719
 layout:
   /main/:
     -
-      - system-messages-1907
+      - system-messages-9292
     -
-      - system-content-6879
+      - system-content-6912
 structure:
   main:
     attributes:

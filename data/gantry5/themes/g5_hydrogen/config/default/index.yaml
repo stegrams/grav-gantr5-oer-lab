@@ -1,10 +1,10 @@
 name: default
-timestamp: 1486242864
+timestamp: 1485908060
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
   name: default
-  timestamp: 1486141414
+  timestamp: 1485645719
 positions:
   header: Header
   breadcrumbs: Breadcrumbs
@@ -17,25 +17,25 @@ sections:
   offcanvas: Offcanvas
 particles:
   logo:
-    logo-9853: Logo
+    logo-2843: Logo
   position:
     position-header: Header
     position-breadcrumbs: Breadcrumbs
     position-footer: Footer
   menu:
-    menu-8987: Menu
+    menu-9182: Menu
   edit_view_page_in_git:
-    edit_view_page_in_git-4956: 'Edit/View Page in Git'
+    edit_view_page_in_git-4460: 'Edit/View Page in Git'
   messages:
-    system-messages-5538: 'System Messages'
+    system-messages-6459: 'System Messages'
   content:
-    system-content-6285: 'Page Content'
+    system-content-3570: 'Page Content'
   cc_license:
-    cc_license-8123: 'CC License'
+    cc_license-8818: 'CC License'
   spacer:
-    spacer-6735: Spacer
+    spacer-8764: Spacer
   branding:
-    branding-7553: Branding
+    branding-2958: Branding
   mobile-menu:
-    mobile-menu-9370: Mobile-menu
+    mobile-menu-7745: Mobile-menu
 inherit: {  }

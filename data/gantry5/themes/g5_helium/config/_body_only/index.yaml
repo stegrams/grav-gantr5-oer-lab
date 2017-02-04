@@ -1,5 +1,5 @@
 name: _body_only
-timestamp: 1485647230
+timestamp: 1485908060
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/body-only.png'

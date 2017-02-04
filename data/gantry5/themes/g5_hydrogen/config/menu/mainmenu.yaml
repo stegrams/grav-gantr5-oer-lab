@@ -4,7 +4,11 @@ ordering:
   home: ''
   basic-page: ''
   blog-page: ''
-  modular-page: ''
+  modular-sample: ''
+  page-layouts:
+    full-width: ''
+    right-sidebar: ''
+    left-sidebar: ''
   setup-guide: ''
 items:
   home:
@@ -16,7 +20,19 @@ items:
   blog-page:
     enabled: true
     anchor_class: ''
-  modular-page:
+  modular-sample:
+    enabled: true
+    anchor_class: ''
+  page-layouts:
+    enabled: true
+    anchor_class: ''
+  page-layouts/full-width:
+    enabled: true
+    anchor_class: ''
+  page-layouts/right-sidebar:
+    enabled: true
+    anchor_class: ''
+  page-layouts/left-sidebar:
     enabled: true
     anchor_class: ''
   setup-guide:

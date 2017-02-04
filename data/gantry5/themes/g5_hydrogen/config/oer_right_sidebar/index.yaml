@@ -1,0 +1,58 @@
+name: right_sidebar
+timestamp: 1486166368
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1485645719
+positions:
+  header: Header
+  breadcrumbs: Breadcrumbs
+  footer: Footer
+sections:
+  header: Header
+  navigation: Navigation
+  mainbar: Mainbar
+  sidebar: Sidebar
+  footer: Footer
+  offcanvas: Offcanvas
+particles:
+  logo:
+    logo-8579: Logo
+  position:
+    position-position-1165: Header
+    position-breadcrumbs: Breadcrumbs
+    position-position-5708: Footer
+  menu:
+    menu-5341: Menu
+  edit_view_page_in_git:
+    edit_view_page_in_git-8868: 'Edit/View Page in Git'
+  messages:
+    system-messages-6459: 'System Messages'
+  content:
+    system-content-3570: 'Page Content'
+  custom:
+    custom-2521: 'Custom HTML'
+  cc_license:
+    cc_license-2655: 'CC License'
+  spacer:
+    spacer-4125: Spacer
+  branding:
+    branding-6329: Branding
+  mobile-menu:
+    mobile-menu-5792: Mobile-menu
+inherit:
+  default:
+    header: header
+    logo-8579: logo-2843
+    position-position-1165: position-header
+    navigation: navigation
+    menu-5341: menu-9182
+    edit_view_page_in_git-8868: edit_view_page_in_git-4460
+    footer: footer
+    position-position-5708: position-footer
+    cc_license-2655: cc_license-8818
+    spacer-4125: spacer-8764
+    branding-6329: branding-2958
+    offcanvas: offcanvas
+    mobile-menu-5792: mobile-menu-7745

@@ -1,0 +1,72 @@
+name: left_sidebar
+timestamp: 1486169920
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1485645696
+positions:
+  aside: Aside
+sections:
+  navigation: Navigation
+  intro: Intro
+  features: Features
+  utility: Utility
+  above: Above
+  testimonials: Testimonials
+  expanded: Expanded
+  header: Header
+  sidebar: Sidebar
+  aside: Aside
+  mainbar: Mainbar
+  footer: Footer
+  offcanvas: Offcanvas
+particles:
+  custom:
+    custom-5246: 'Custom HTML'
+  logo:
+    logo-5356: 'Logo / Image'
+    logo-8725: 'Logo / Image'
+  menu:
+    menu-8812: Menu
+  social:
+    social-7667: Social
+  content:
+    system-content-7490: 'Page Content'
+  edit_view_page_in_git:
+    edit_view_page_in_git-6517: 'Edit/View Page in Git'
+  position:
+    position-position-8613: Aside
+  cc_license:
+    cc_license-1645: 'CC License'
+  horizontalmenu:
+    horizontalmenu-4717: 'Horizontal Menu'
+  totop:
+    totop-9136: 'To Top'
+  mobile-menu:
+    mobile-menu-5421: Mobile-menu
+inherit:
+  default:
+    navigation: navigation
+    header: header
+    intro: intro
+    features: features
+    utility: utility
+    above: above
+    testimonials: testimonials
+    expanded: expanded
+    mainbar: mainbar
+    aside: aside
+    footer: footer
+    offcanvas: offcanvas
+    logo-5356: logo-9608
+    menu-8812: menu-6409
+    social-7667: social-3171
+    system-content-7490: system-content-1587
+    edit_view_page_in_git-6517: edit_view_page_in_git-6755
+    position-position-8613: position-position-4734
+    logo-8725: logo-9571
+    cc_license-1645: cc_license-6440
+    horizontalmenu-4717: horizontalmenu-9034
+    totop-9136: totop-8670
+    mobile-menu-5421: mobile-menu-5697

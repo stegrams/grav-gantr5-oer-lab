@@ -1,0 +1,70 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1485645719
+layout:
+  header: {  }
+  navigation: {  }
+  /container-main/:
+    -
+      -
+        'mainbar 75':
+          -
+            - position-breadcrumbs
+          -
+            - system-messages-6459
+          -
+            - system-content-3570
+      -
+        'sidebar 25':
+          -
+            - custom-2521
+  footer: {  }
+  offcanvas: {  }
+structure:
+  header:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  navigation:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  mainbar:
+    type: section
+  sidebar:
+    type: section
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  offcanvas:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+content:
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  custom-2521:
+    title: 'Custom HTML'
+    attributes:
+      html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
+      twig: '1'
