@@ -15,5 +15,4 @@ Open Education "...is the simple and powerful idea that the world’s knowledge 
 * [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) pre-installed
 * [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed
 * Markdown (and optionally HTML) page content
-* Full-width, left and right sidebar page layouts
 * [Gantry 5](http://gantry.org/) visual theme builder included
