@@ -3,6 +3,8 @@
 
 1. [](#improved)
     * Updated information and links for inclusion on getgrav.org site
+    * Updated Gantry 5 theme outlines
+    * Updated example site pages
 
 # v0.9.0
 ## 01/31/2017
