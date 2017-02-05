@@ -11,7 +11,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 
 # Why Use the Grav OER Content Space Project?
 * To combine the power of a modern CMS (i.e. Grav) with system-independent OER content
-* To provide direct access to OER raw content (in Markdown or HTML) via your published website
+* To provide direct access to OER raw content (in Markdown or HTML) to better facilitate reuse
 * To support open collaboration and version control of your OER content
 * To provide mobile and multi-device friendly access to your OER content
 * To quickly and easily update OER content online or locally using the tools of your choice
