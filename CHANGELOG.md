@@ -4,6 +4,9 @@
 1. [](#new)
     * Added left sidebar and right sidebar layouts
 
+1. [](#improved)
+    * Updated example site pages
+
 # v0.9.1
 ## 02/04/2017
 
