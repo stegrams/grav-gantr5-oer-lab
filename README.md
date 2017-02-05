@@ -18,12 +18,12 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 * To easily customize the presentation of your OER content using a visual theme builder (i.e. Gantry 5)
 
 # OER Content Space Highlights
-* [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) pre-installed
-* [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) pre-installed
-* [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed
+* [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) for Gantry 5 pre-installed
+* [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for Grav pre-installed
+* [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) for Gantry pre-installed
 * Markdown (and optionally HTML) page content
 * Full-width, left and right sidebar page layouts
-* Sidebar is a simple markdown file, which can also contain HTML
+* Sidebar is a standard Grav page, which can also contain HTML
 * [Gantry 5](http://gantry.org/) visual theme builder included
 * Two responsive Gantry 5 themes (Hydrogen and Helium ) pre-configured
 
