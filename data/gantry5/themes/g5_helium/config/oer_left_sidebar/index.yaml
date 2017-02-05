@@ -1,5 +1,5 @@
-name: left_sidebar
-timestamp: 1486169920
+name: oer_left_sidebar
+timestamp: 1486338568
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'

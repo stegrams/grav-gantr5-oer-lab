@@ -35,8 +35,8 @@ layout:
   /footer/:
     -
       - 'logo-9571 10'
-      - 'cc_license-6440 30'
-      - 'horizontalmenu-9034 45'
+      - 'cc_license-6440 35'
+      - 'horizontalmenu-9034 40'
       - 'totop-8670 15'
   /offcanvas/:
     -
