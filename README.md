@@ -9,6 +9,21 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 
 ![](screenshot.jpg)
 
+# Why Use the Grav OER Content Space Project?
+* To provide direct access to your OER content (i.e. Markdown, images, etc.)
+* To support collaboration and version control of OER content
+* To provide multi-device access for OER content
+* To more quickly and easily update online OER content
+
+# Content Space Highlights
+* [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) pre-installed
+* [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) pre-installed
+* [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed
+* Markdown (and optionally HTML) page content
+* Full-width, left and right sidebar page layouts
+* Sidebar is a simple markdown file, which can also contain HTML
+* [Gantry 5](http://gantry.org/) visual theme builder included
+
 # Installing the OER Content Space Site
 ## Web Install
 **Pre-flight Checklist**  
