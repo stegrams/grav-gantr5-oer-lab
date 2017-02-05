@@ -16,7 +16,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 * To provide multi-device access for OER content
 * To more quickly and easily update online OER content, locally or remotely
 
-# Content Space Highlights
+# OER Content Space Highlights
 * [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) pre-installed
 * [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) pre-installed
 * [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed
