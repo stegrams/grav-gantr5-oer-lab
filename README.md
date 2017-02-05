@@ -25,7 +25,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 * Full-width, left and right sidebar page layouts
 * Sidebar is a standard Grav page, which can also contain HTML
 * [Gantry 5](http://gantry.org/) visual theme builder included
-* Two responsive Gantry 5 themes (Hydrogen and Helium ) pre-configured
+* Two responsive Gantry 5 themes ([Hydrogen]() and [Helium]()) pre-configured
 
 # Installing the OER Content Space Site
 ## Web Install
