@@ -15,7 +15,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 * To support collaboration and version control of your OER content with the Git service (e.g. GitHub) of your choice
 * To quickly and easily update OER content online or locally using the tools of your choice
 * To provide a mobile and multi-device friendly visual presentation of your OER content
-* To use a visual theme builder (i.e. Gantry 5) to customize the visual presentation of your OER content
+* To easily customize the presentation of your OER content using a visual theme builder (i.e. Gantry 5)
 
 # OER Content Space Highlights
 * [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) pre-installed
