@@ -11,4 +11,5 @@ atoms:
         - { location: '', inline: ".git-edit .g-content {\n    margin: 0.26rem;\n}", extra: {  }, priority: '0', name: 'Edit in Git Menu' }
         - { location: '', inline: ".radio {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Radios' }
         - { location: '', inline: ".checkboxes {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Checkboxes' }
+        - { location: '', inline: "#g-sidebar, #g-aside {\n    padding: 0;\n}", extra: {  }, priority: '0', name: 'Sidebar Vertical Adjustment' }
       javascript: {  }
