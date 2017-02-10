@@ -8,4 +8,7 @@
    http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet
  */
 
-/* @import "custom.scss" */
+/* line 1, user/themes/g5_hydrogen/custom/scss/custom.scss */
+div[data-grav-field="password"] {
+  margin-bottom: 1rem;
+}

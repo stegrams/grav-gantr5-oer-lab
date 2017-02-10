@@ -32,7 +32,7 @@ fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf	7f1320f7ec4f6716054d88c
 fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff	3e5675c89f974f7811eeaf07e2dd5ba3
 fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2	bde1ca6a5d7cefc8108c75fdaad29ed6
 gantry/presets.yaml	7f3dfc6dcb9acb88e4c8f66afed12c97
-gantry/theme.yaml	c6bf469bfb9806f8dc5098fe692cfb47
+gantry/theme.yaml	04edf243f628ed988ce0edbad3751385
 images/ipad.png	d5a7118045cc491070f6aac905dffc1f
 images/iphone.png	3e0764062333d05540e4cae7045fe07d
 images/macbook.png	faf9871d2d37a66bfd77cf13eff8a683
@@ -61,13 +61,13 @@ scss/hydrogen/_footer.scss	bd9c9f4324390b2e4d13c4db3a4ab1e5
 scss/hydrogen/_forms.scss	b1be50ef717dad15e1af133d4f96185f
 scss/hydrogen/_header.scss	994d8fa9672fdbdc1f5c6f44123b34c7
 scss/hydrogen/_main.scss	092f8d7d53570e249006c0f438345c5e
-scss/hydrogen/_nav.scss	2ba9aa97b7542704917e329c146cb055
+scss/hydrogen/_nav.scss	ecafd30ef7f359552a48acf6e9c612d2
 scss/hydrogen/_offcanvas.scss	8834139eac15c2699654fad094dafc35
 scss/hydrogen/_offline.scss	6c2dfae02b56260080cf769d8914d7ba
 scss/hydrogen/_sample.scss	1e17152ca3f1de3bd364f5ebd991e5a3
 scss/hydrogen/_showcase.scss	d828b183167a8a3035c610ca40e72d3a
 scss/hydrogen/_sidebar.scss	147dbbfba89deb9c5310440ba2de5dd7
-scss/hydrogen/_social.scss	d2b09606d86b9363eb94f9108ffe5ac2
+scss/hydrogen/_social.scss	6be0b7c4b053950a3d3f005fd5d3f7d3
 scss/hydrogen/_subfeature.scss	0bda1de12036b6e74a5649e5df683f59
 scss/hydrogen/_tables.scss	02cb4490d23fba57f8a91d7b52076495
 scss/hydrogen/_typography.scss	eef95a4a776c7440e309c90319359efc
@@ -81,6 +81,6 @@ includes/theme.php	7b06ccd0174cb57939f26f7f75f44471
 g5_hydrogen.yaml	c992c6c2943becc7320a32e402e7e4f8
 screenshot.jpg	99f25276500529b0ff31d1397d4a9b85
 thumbnail.jpg	5c6ef8fb74bc00fbd17d7cb44bf23852
-blueprints.yaml	391420ed1d17b5e4e2343600c686cf63
+blueprints.yaml	fc3b882d8cf1500c5dba47a897466feb
 theme.php	41b471560664a0a52452d7af5742bc9d
 MD5SUMS	d41d8cd98f00b204e9800998ecf8427e
