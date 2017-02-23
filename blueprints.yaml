@@ -1,5 +1,5 @@
 name: OER Content Space Site
-version: 0.9.2
+version: 0.9.3
 description: "OER Content Space skeleton package with Gantry 5 theme builder, designed to share and collaboratively edit Markdown-based Open Educational Resources using seamless GitHub/GitLab syncing."
 icon: university
 author:

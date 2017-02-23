@@ -1,3 +1,10 @@
+# v0.9.3
+## 02/23/2017
+
+1. [](#improved)
+    * Updated Home page content
+    * Updated example site pages
+
 # v0.9.2
 ## 02/05/2017
 
