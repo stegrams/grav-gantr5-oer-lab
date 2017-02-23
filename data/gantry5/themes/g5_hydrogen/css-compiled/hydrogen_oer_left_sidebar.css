@@ -156,19 +156,19 @@ h1, h2, h3, h4, h5, h6, strong {
   font-family: "roboto";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?5894b7e6#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?5894b7e6') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?5894b7e6') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?5894b7e6') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?5894b7e6#roboto') format("svg");
+  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?58af6e0c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff2?58af6e0c') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff?58af6e0c') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf?58af6e0c') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg?58af6e0c#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 500;
-  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?5894b7e6#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?5894b7e6') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?5894b7e6') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?5894b7e6') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?5894b7e6#roboto') format("svg");
+  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?58af6e0b#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff2?58af6e0c') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff?58af6e0b') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf?58af6e0b') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg?58af6e0b#roboto') format("svg");
 }
 @font-face {
   font-family: "roboto";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?5894b7e6#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?5894b7e6') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?5894b7e6') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?5894b7e6') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?5894b7e6#roboto') format("svg");
+  src: url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?58af6e0b#iefix') format("embedded-opentype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff2?58af6e0b') format("woff2"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff?58af6e0b') format("woff"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.ttf?58af6e0b') format("truetype"), url('../../../../../themes/g5_hydrogen/fonts/roboto_bold_macroman/Roboto-Bold-webfont.svg?58af6e0b#roboto') format("svg");
 }
 /* line 5, user/themes/g5_hydrogen/scss/hydrogen/_typography.scss */
 body {
@@ -254,16 +254,17 @@ hr {
 #g-navigation .g-social a {
   background: #2b70aa;
   border: none;
+  text-decoration: none;
   color: #fff;
   -webkit-transition: background 0.2s;
   -moz-transition: background 0.2s;
   transition: background 0.2s;
 }
-/* line 25, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 26, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .g-social a:hover {
   background: #428fcf;
 }
-/* line 31, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 32, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .g-main-nav {
   margin: -1.563rem;
 }
@@ -313,7 +314,7 @@ hr {
 #g-navigation .g-main-nav .g-sublevel > li:not(.g-menu-item-type-particle):not(.g-menu-item-type-module):hover, #g-navigation .g-main-nav .g-sublevel > li:not(.g-menu-item-type-particle):not(.g-menu-item-type-module).active {
   background: #276599;
 }
-/* line 34, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 35, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .g-main-nav .g-toplevel {
   display: -webkit-box;
   display: -moz-box;
@@ -378,69 +379,70 @@ hr {
 #g-navigation .g-menu-hastouch .g-standard .g-sublevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator:after, #g-navigation .g-fullwidth .g-sublevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator:after {
   text-align: center;
 }
-/* line 44, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 /* line 45, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 46, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .search input {
   color: #666;
 }
-/* line 51, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 /* line 52, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 /* line 53, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 57, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 54, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 58, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-toplevel {
   font-weight: 500;
 }
-/* line 59, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 61, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 60, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 62, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-toplevel > li > .g-menu-item-container {
+  text-decoration: none;
   padding: 1.2rem 0.938rem;
 }
-/* line 65, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 66, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 67, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 68, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-toplevel > li > .g-menu-item-container > .g-menu-item-content {
   line-height: normal;
 }
-/* line 72, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 74, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-toplevel i {
   opacity: 0.6;
 }
-/* line 77, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 79, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-dropdown {
   text-align: left;
 }
-/* line 80, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 82, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .dir-rtl .g-main-nav .g-dropdown {
   text-align: right;
 }
-/* line 85, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 86, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 /* line 87, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 88, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 89, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-main-nav .g-sublevel > li > .g-menu-item-container {
   padding: 0.7815rem 1rem;
 }
-/* line 94, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 95, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 /* line 96, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 97, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 98, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .align-left .g-toplevel, #g-header .align-left .g-toplevel {
   justify-content: flex-start;
   -webkit-justify-content: flex-start;
 }
-/* line 102, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
-/* line 103, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 104, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 105, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 #g-navigation .align-right .g-toplevel, #g-header .align-right .g-toplevel {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-/* line 111, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 113, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-menu-item-subtitle {
   opacity: 0.7;
 }
-/* line 116, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+/* line 118, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
 .g-nav-overlay, .g-menu-overlay {
   background: rgba(0, 0, 0, 0.4);
 }
 @media print {
-  /* line 121, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
+  /* line 123, user/themes/g5_hydrogen/scss/hydrogen/_nav.scss */
   #g-navigation {
     background: #fff !important;
     color: #000 !important;
@@ -977,6 +979,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   border: 1px solid #ddd;
   border-radius: 0.1875rem;
   margin-bottom: 4px;
+  text-decoration: none;
 }
 /* line 1, user/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
 .sample-content {
@@ -1015,7 +1018,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 1;
-    background: url('../../../../../themes/g5_hydrogen/images/macbook.png?5894b7e6');
+    background: url('../../../../../themes/g5_hydrogen/images/macbook.png?58af6e0c');
   }
   /* line 31, user/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .macbook .macbook-color {
@@ -1032,7 +1035,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 2;
-    background: url('../../../../../themes/g5_hydrogen/images/ipad.png?5894b7e6');
+    background: url('../../../../../themes/g5_hydrogen/images/ipad.png?58af6e0c');
   }
   /* line 46, user/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .ipad .ipad-color {
@@ -1049,7 +1052,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     height: 203px;
     position: absolute;
     z-index: 3;
-    background: url('../../../../../themes/g5_hydrogen/images/iphone.png?5894b7e6');
+    background: url('../../../../../themes/g5_hydrogen/images/iphone.png?58af6e0c');
   }
   /* line 61, user/themes/g5_hydrogen/scss/hydrogen/_sample.scss */
   .sample-content .device-promo .iphone .iphone-color {
