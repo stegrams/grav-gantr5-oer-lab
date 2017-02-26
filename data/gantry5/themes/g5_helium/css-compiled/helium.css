@@ -76,7 +76,7 @@ textarea, select[multiple=multiple], input[type="color"], input[type="date"], in
   font-family: 'rockettheme-apps';
   font-style: normal;
   font-weight: normal;
-  src: url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg?5891285c#rockettheme-apps') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot?58af6e09#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2?58af6e09') format("woff2"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff?58af6e09') format("woff"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf?58af6e09') format("truetype"), url('../../../../../themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg?58af6e09#rockettheme-apps') format("svg");
 }
 /* line 4, user/themes/g5_helium/scss/helium/styles/_fonts.scss */
 i.fa-grav-spaceman, i.fa-grav-text, i.fa-grav-full, i.fa-grav-logo, i.fa-grav-symbol, i.fa-grav-logo-both, i.fa-grav-both, i.fa-gantry, i.fa-gantry-logo, i.fa-gantry-symbol, i.fa-gantry-logo-both, i.fa-gantry-both {
@@ -180,61 +180,61 @@ a:hover {
   font-family: "raleway";
   font-style: normal;
   font-weight: 900;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 600;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 500;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 200;
-  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg?5891285c#raleway') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg?58af6e08#raleway') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 900;
-  src: url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.svg?5891285c#lato') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.svg?58af6e08#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 700;
-  src: url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg?5891285c#lato') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg?58af6e08#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 400;
-  src: url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg?5891285c#lato') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg?58af6e08#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 200;
-  src: url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.eot?5891285c#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2?5891285c') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff?5891285c') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf?5891285c') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.svg?5891285c#lato') format("svg");
+  src: url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.eot?58af6e08#iefix') format("embedded-opentype"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2?58af6e08') format("woff2"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff?58af6e08') format("woff"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf?58af6e08') format("truetype"), url('../../../../../themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.svg?58af6e08#lato') format("svg");
 }
 /* line 5, user/themes/g5_helium/scss/helium/styles/_typography.scss */
 body {
@@ -1303,36 +1303,6 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 }
 /* line 21, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 /* line 22, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 23, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 24, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li > .g-menu-item-container {
-  color: #fff;
-}
-/* line 27, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li > .g-menu-item-container:hover {
-  color: rgba(255, 255, 255, 0.6);
-}
-/* line 32, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 33, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li:hover > .g-menu-item-container {
-  color: rgba(255, 255, 255, 0.6);
-}
-/* line 36, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li:hover > .g-menu-item-container > .g-selected {
-  color: rgba(255, 255, 255, 0.6);
-}
-/* line 42, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 43, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 44, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li.active > .g-menu-item-container > .g-menu-item-content {
-  box-shadow: 0 2px 0 rgba(255, 255, 255, 0.4);
-}
-/* line 48, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-.g-home-particles.g-helium-style #g-navigation .g-main-nav .g-toplevel > li.active > .g-menu-item-container > .g-selected {
-  box-shadow: 0 2px 0 rgba(255, 255, 255, 0.4);
-}
-/* line 58, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 59, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-navigation .g-social a {
   color: rgba(255, 255, 255, 0.5);
 }
@@ -1341,7 +1311,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     color: inherit;
   }
 }
-/* line 66, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 29, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-navigation .g-social a:hover {
   color: #fff;
 }
@@ -1350,7 +1320,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     color: #4db2b3;
   }
 }
-/* line 78, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 41, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-header {
   text-align: center;
   padding: 0;
@@ -1366,46 +1336,46 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     padding-top: 2rem;
   }
 }
-/* line 92, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 93, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 55, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 56, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-header .button.button-outline {
   background: transparent;
   color: #fff;
   border-color: rgba(255, 255, 255, 0.5);
 }
-/* line 98, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 61, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-header .button.button-outline:hover, .g-home-particles.g-helium-style #g-header .button.button-outline:active, .g-home-particles.g-helium-style #g-header .button.button-outline:focus {
   background: rgba(255, 255, 255, 0.5);
   border-color: transparent;
 }
-/* line 107, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 70, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-intro {
   padding-bottom: 0;
 }
-/* line 110, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 73, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-intro .g-content {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-/* line 114, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 115, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 77, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 78, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style #g-intro .g-content .fp-intro p {
   margin-bottom: 2rem;
 }
-/* line 123, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 124, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 86, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 87, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 @media only all and (max-width: 47.938rem) {
-  /* line 126, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+  /* line 89, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
   .g-home-particles.g-helium-style .fp-features .g-block:not(:last-child) {
     margin-bottom: 4.5rem;
   }
 }
-/* line 131, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 132, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 94, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 95, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-features .g-block .card .card-block {
   padding: 0 0.938rem;
 }
-/* line 135, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 98, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-features .g-block .card .card-block .fa {
   width: 120px;
   height: 120px;
@@ -1415,21 +1385,21 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   border: 8px solid rgba(224, 224, 229, 0.4);
   border-radius: 50%;
 }
-/* line 145, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 108, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-features .g-block .card .card-block .card-title {
   margin-bottom: 5px;
   font-size: 2.25rem;
   line-height: 1.66rem;
   font-weight: 600;
 }
-/* line 152, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 115, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-features .g-block .card .card-block .card-subtitle {
   display: block;
   color: rgba(66, 71, 83, 0.5);
   margin-bottom: 1.5rem;
   font-weight: 200;
 }
-/* line 158, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 121, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-features .g-block .card .card-block .card-subtitle:after {
   display: block;
   width: 80%;
@@ -1438,18 +1408,18 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   content: "";
   background-color: rgba(224, 224, 229, 0.8);
 }
-/* line 173, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 174, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 136, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 137, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-testimonials blockquote {
   margin: 2.5rem 0;
   border-left: none;
 }
-/* line 178, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 141, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-testimonials blockquote p {
   color: #eceeef;
 }
-/* line 182, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 183, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 145, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 146, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-testimonials blockquote footer:after {
   display: block;
   margin: 0 auto;
@@ -1458,14 +1428,14 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   content: "";
   background-color: rgba(255, 255, 255, 0.25);
 }
-/* line 194, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 157, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-testimonials img {
   margin-bottom: 1.25rem;
   border: 4px solid #fff;
 }
-/* line 201, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 202, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 203, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 164, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 165, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 166, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-multi-column-text .g-block p {
   padding: 0 5rem;
   border-left: 1px solid #e0e0e5;
@@ -1475,8 +1445,8 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     border: none;
   }
 }
-/* line 212, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 213, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 175, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 176, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-multi-column-text .g-block:first-child p {
   padding-left: 0;
   padding-right: 5rem;
@@ -1487,8 +1457,8 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     padding: 0;
   }
 }
-/* line 224, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
-/* line 225, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 187, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
+/* line 188, user/themes/g5_helium/scss/helium/styles/_helium-style.scss */
 .g-home-particles.g-helium-style .fp-multi-column-text .g-block:last-child p {
   padding-right: 0;
   padding-left: 5rem;
@@ -1522,7 +1492,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('../../../../../themes/g5_helium/images/header/img01.jpg?5891285c') center center no-repeat;
+  background: url('../../../../../themes/g5_helium/images/header/img01.jpg?58af6e09') center center no-repeat;
   background-size: cover;
 }
 /* line 13, user/themes/g5_helium/scss/helium/sections/_header.scss */
@@ -1807,84 +1777,85 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 /* line 27, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 29, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-toplevel > li > .g-menu-item-container {
+  text-decoration: none;
   line-height: 1;
 }
-/* line 34, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 35, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 36, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-toplevel > li > .g-menu-item-container > .g-menu-item-content {
   word-break: normal;
   line-height: normal;
 }
-/* line 41, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 42, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-toplevel > li.g-parent .g-menu-parent-indicator:after {
   width: 1.25rem;
   padding: 0.1rem 0.25rem 0.25rem 0rem;
   height: 1.25rem;
 }
-/* line 48, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 49, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-toplevel i {
   opacity: 0.6;
 }
-/* line 53, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 54, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 55, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-standard > .g-dropdown:before, .g-main-nav .g-fullwidth > .g-dropdown:before {
   top: -7px !important;
 }
-/* line 57, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 58, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-standard > .g-dropdown .g-dropdown, .g-main-nav .g-fullwidth > .g-dropdown .g-dropdown {
   top: -7px;
 }
-/* line 61, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 62, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 63, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-standard .g-dropdown:after, .g-main-nav .g-fullwidth .g-dropdown:after {
   left: -30px !important;
 }
-/* line 67, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 68, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-dropdown {
   text-align: left;
   border-radius: 0.25rem;
 }
-/* line 70, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 71, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .dir-rtl .g-main-nav .g-dropdown {
   text-align: right;
 }
-/* line 74, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 75, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 76, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-sublevel > li {
   margin: 0.3125rem 0.9375rem;
   padding: 0 0 0.2345rem 0;
 }
-/* line 78, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 79, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-sublevel > li > .g-menu-item-container {
   line-height: normal;
   font-size: 0.85rem;
   font-weight: bold;
 }
-/* line 83, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 84, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-sublevel > li > .g-menu-item-container > .g-menu-item-content {
   word-break: normal;
   vertical-align: top;
 }
-/* line 88, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 89, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 90, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-sublevel > li.g-parent .g-menu-parent-indicator {
   right: 0;
   top: 0;
   margin-top: -0.35rem;
 }
-/* line 93, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 94, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-main-nav .g-sublevel > li.g-parent .g-menu-parent-indicator:after {
   content: "\f0da";
   position: relative;
   opacity: 1;
   top: 0.75rem;
 }
-/* line 106, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 107, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-menu-item-subtitle {
   opacity: 0.7;
 }
-/* line 111, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 112, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 113, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-preset-thumbnails .g-block {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
@@ -1894,7 +1865,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   -ms-flex: 1 1 auto !important;
   flex: 1 1 auto !important;
 }
-/* line 114, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 115, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-preset-thumbnails .g-block > .g-content {
   margin: 1rem 0;
   padding: 0 0.5rem !important;
@@ -1940,23 +1911,23 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   border-top: 5px solid transparent;
   z-index: -1;
 }
-/* line 128, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 129, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 130, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 131, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 132, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 133, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 134, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 135, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-menu-hastouch .g-standard .g-toplevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator, .g-menu-hastouch .g-fullwidth .g-toplevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator {
   border-radius: 0.25rem;
   margin: -0.2rem 0 -0.2rem 0.5rem;
   padding: 0.2rem;
 }
-/* line 144, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 145, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 146, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 147, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 /* line 148, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
+/* line 149, user/themes/g5_helium/scss/helium/sections/_mainnav.scss */
 .g-menu-hastouch .g-standard .g-sublevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator, .g-menu-hastouch .g-fullwidth .g-sublevel > li.g-menu-item-link-parent > .g-menu-item-container > .g-menu-parent-indicator {
   border-radius: 0.25rem;
   padding: 0.1rem;
@@ -2022,7 +1993,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('../../../../../themes/g5_helium/images/testimonials/img01.jpg?5891285c') no-repeat center top;
+  background: url('../../../../../themes/g5_helium/images/testimonials/img01.jpg?58af6e09') no-repeat center top;
   background-size: cover;
 }
 /* line 13, user/themes/g5_helium/scss/helium/sections/_testimonials.scss */
@@ -2494,6 +2465,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 /* line 2, user/themes/g5_helium/scss/helium/particles/_social.scss */
 .g-social a {
   padding: 0.1875rem 0.4rem;
+  text-decoration: none;
 }
 @media only all and (min-width: 48rem) and (max-width: 59.938rem) {
   .g-social a {

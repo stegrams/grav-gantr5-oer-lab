@@ -2,6 +2,15 @@ meta: {  }
 head_bottom: ''
 atoms:
   -
+    id: oer_schema-6389
+    type: oer_schema
+    title: 'OER Schema'
+    attributes:
+      oer_scheme_type: none
+      oer_scheme_id: ''
+      oer_scheme_name: ''
+      enabled: 1
+  -
     id: assets-1991
     type: assets
     title: 'Custom CSS / JS'

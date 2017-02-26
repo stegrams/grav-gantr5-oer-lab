@@ -1,7 +1,9 @@
 attribs:
   id: ''
   class: gantry
-  extra: {  }
+  extra:
+    -
+      prefix: 'oer: http://oerschema.org/'
 layout:
   sections: '0'
 body_top: ''
