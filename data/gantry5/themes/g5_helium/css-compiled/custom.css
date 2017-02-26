@@ -16,3 +16,11 @@ div[data-grav-field="password"] {
 body {
   font-size: 1rem;
 }
+/* line 9, user/themes/g5_helium/custom/scss/custom.scss */
+.radio {
+  display: list-item;
+}
+/* line 13, user/themes/g5_helium/custom/scss/custom.scss */
+.checkboxes {
+  display: list-item;
+}

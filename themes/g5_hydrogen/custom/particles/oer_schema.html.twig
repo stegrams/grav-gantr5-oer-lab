@@ -2,23 +2,21 @@
 
 {% block particle %}
 
-{% if particle.oer_scheme_type not 'None' %}
-  {% if particle.oer_scheme_type == 'Course' %}
-    {% set oer_scheme_property = 'courseIdentifier' %}
-  {% elseif particle.oer_scheme_type == 'Topic' %}
-    {% set oer_scheme_property = 'topicIdentifier' %}
-  {% elseif particle.oer_scheme_type == 'LearningComponent' %}
-    {% set oer_scheme_property = 'learningComponentIdentifier' %}
-  {% endif %}
-
-  {% pageblock body_top %}
-    <div resource="{{particle.oer_scheme_id}}" typeof="oer:{{particle.oer_scheme_type}}">
-    <meta property="oer:{{oer_scheme_property}}" content="{{particle.oer_scheme_name}}">
-  {% endpageblock %}
-
-  {% pageblock body_bottom %}
-    </div>
-  {% endpageblock %}
+{% if particle.oer_scheme_type == 'Course' %}
+  {% set oer_scheme_property = 'courseIdentifier' %}
+{% elseif particle.oer_scheme_type == 'Topic' %}
+  {% set oer_scheme_property = 'topicIdentifier' %}
+{% elseif particle.oer_scheme_type == 'learningComponent' %}
+  {% set oer_scheme_property = 'learningComponentIdentifier' %}
 {% endif %}
+
+{% pageblock body_top %}
+  <div resource="{{particle.oer_scheme_id}}" typeof="oer:{{particle.oer_scheme_type}}">
+  <meta property="oer:{{oer_scheme_property}}" content="{{particle.oer_scheme_name}}">
+{% endpageblock %}
+
+{% pageblock body_bottom %}
+  </div>
+{% endpageblock %}
 
 {% endblock %}

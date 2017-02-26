@@ -6,17 +6,7 @@ atoms:
     type: oer_schema
     title: 'OER Schema'
     attributes:
-      oer_scheme_type: none
-      oer_scheme_id: ''
-      oer_scheme_name: ''
-      enabled: 1
-  -
-    id: assets-3719
-    type: assets
-    title: 'Custom CSS / JS'
-    attributes:
-      enabled: '1'
-      css:
-        - { location: '', inline: ".radio {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Radios' }
-        - { location: '', inline: ".checkboxes {\n    display: list-item;\n}", extra: {  }, priority: '0', name: 'Stack Form Checkboxes' }
-      javascript: {  }
+      enabled: '0'
+      oer_scheme_type: Topic
+      oer_scheme_id: '#OEROVERVIEW'
+      oer_scheme_name: 'OER Overview'
