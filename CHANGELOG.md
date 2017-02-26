@@ -1,3 +1,9 @@
+# v0.9.4
+## 02/26/2017
+
+1. [](#new)
+    * Added experimental OER Schema (oerschema.org) particle
+
 # v0.9.3
 ## 02/23/2017
 
