@@ -32,6 +32,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 **Pre-flight Checklist**  
 1. Confirm Webserver PHP version (PHP 5.5.9 or higher)  
 2. Webserver login credentials (username and password)  
+3. Git version 1.7.1 or higher installed on your Webserver
 
 **Installation Steps**  
 1. Download the ready-to-run [OER Content Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-oer-content-space-site.zip)  

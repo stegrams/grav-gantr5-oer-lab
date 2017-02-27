@@ -4,6 +4,12 @@ type: particle
 
 form:
   fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable Creative Commons License particle.
+      default: true
+
     cc_license_type:
       type: select.selectize
       label: CC License
