@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-OERContentSpace-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-oer-content-space/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-gantry-oer-content/blob/master/LICENSE)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-open-edu)
+[![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
 The *OER Content Space* skeleton package is designed to share and collaboratively update [Markdown-based](http://commonmark.org/help/) Open Educational Resources content using seamless GitHub/GitLab syncing. This package includes the [Gantry](http://gantry.org/) framework and and two Gantry themes (*Hydrogen* and *Helium*) as well as the Gantry particles [Edit/View Page in Git](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) and [Creative Commons License](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) pre-installed.
 
