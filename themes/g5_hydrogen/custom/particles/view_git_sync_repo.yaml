@@ -1,0 +1,20 @@
+name: View Git Sync Repo
+description: Displays a link to the repository used for Git Sync.
+type: particle
+icon: fa-git
+
+form:
+  fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable View Git Sync Repo particle.
+      default: true
+
+    custom_git_sync_repo_link:
+        type: input.url
+        label: Custom Repository URL
+        help: Custom URL path to repository
+        description: Custom URL path to repository.
+        validate:
+            type: URL
