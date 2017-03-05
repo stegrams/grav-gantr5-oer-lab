@@ -22,6 +22,7 @@ The *OER Content Space* skeleton package is designed to share and collaborativel
 * [Edit Page in Git Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) for Gantry 5 pre-installed
 * [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for Grav pre-installed
 * [Creative Commons (CC) License Particle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license) for Gantry pre-installed
+* [Hypothesis Particle](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis) for Gantry pre-installed
 * Markdown (and optionally HTML) page content
 * Full-width, left and right sidebar page layouts
 * Sidebar is a standard Grav page, which can also contain HTML
