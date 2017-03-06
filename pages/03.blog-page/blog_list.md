@@ -25,5 +25,5 @@ feed:
     description: 'Sample Blog Description'
     limit: 10
 pagination: true
+child_type: blog_item
 ---
-
