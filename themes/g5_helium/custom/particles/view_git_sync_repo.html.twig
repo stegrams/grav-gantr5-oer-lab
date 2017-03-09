@@ -9,8 +9,17 @@
   {% else %}
     {% set git_sync_repo_link = particle.custom_git_sync_repo_link %}
   {% endif %}
+  {% if 'github' in git_sync_repo_link %}
+    {% set git_repo_link_icon = "github" %}
+  {% elseif 'gitlab' in git_sync_repo_link %}
+    {% set git_repo_link_icon = "gitlab" %}
+  {% elseif 'bitbucket' in git_sync_repo_link %}
+    {% set git_repo_link_icon = "bitbucket" %}
+  {% else %}
+    {% set git_repo_link_icon = "git" %}
+  {% endif %}
   <a href="{{ git_sync_repo_link }}" title="View Repository" target="_blank">
-  <i class="fa fa-git" aria-hidden="true"></i> View Repository</a>
+  <i class="fa fa-{{ git_repo_link_icon }}" aria-hidden="true"></i> View Repository</a>
 {% else %}
     {% if not config.plugins['git-sync'].enabled  %}
       {% set admin_panel_appearance_url = grav.base_url ~ '/admin/plugins/' %}
