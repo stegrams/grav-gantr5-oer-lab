@@ -1,6 +1,6 @@
 name: OER Content Space Site
 version: 0.9.5
-description: "OER Content Space with Git Sync, designed to share and collaboratively edit Markdown-based Open Educational Resources. Includes Gantry 5 theme builder."
+description: "Grav OER Content Space with Git Sync, designed to share and collaboratively edit Markdown-based Open Educational Resources. Includes Gantry 5 theme builder."
 icon: university
 author:
  name: Paul Hibbitts
