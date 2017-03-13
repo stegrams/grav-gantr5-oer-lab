@@ -16,3 +16,19 @@ div[data-grav-field="password"] {
 body {
   font-size: 1rem;
 }
+/* line 9, user/themes/g5_hydrogen/custom/scss/custom.scss */
+.git-edit .g-content {
+  margin: 0.26rem;
+}
+/* line 13, user/themes/g5_hydrogen/custom/scss/custom.scss */
+.radio {
+  display: list-item;
+}
+/* line 17, user/themes/g5_hydrogen/custom/scss/custom.scss */
+.checkboxes {
+  display: list-item;
+}
+/* line 21, user/themes/g5_hydrogen/custom/scss/custom.scss */
+#g-sidebar, #g-aside {
+  padding: 0;
+}
