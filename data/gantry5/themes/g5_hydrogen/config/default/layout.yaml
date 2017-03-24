@@ -52,6 +52,8 @@ content:
       variations: align-left
   edit_view_page_in_git-4460:
     title: 'Edit/View Page in Git'
+    attributes:
+      git_repo_tree_url: 'https://github.com/stegrams/grav-gantr5-oer-lab/edit/master'
     block:
       class: git-edit
       variations: align-right
