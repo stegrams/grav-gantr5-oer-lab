@@ -1,2 +1,18 @@
 enabled: true
 text_var: 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)'
+folders:
+  - pages
+repository: 'https://github.com/stegrams/grav-gantr5-oer-lab'
+user: stegrams
+webhook: /_git-sync
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  name: GitSync
+  email: grownal@otenet.gr
+  bin: git
+logging: false
+password: gitsync-def50200054bc3294157cb33ead934bf43a7adfdc50be6fc8e70d4515ddf0eaca3d50014e4ba413829313203498ea67295535fd293d4774aea4f052e59d2f52d0217036c91b6fd65c967825569b1bac3aec5c809e7f0a31de7390392
