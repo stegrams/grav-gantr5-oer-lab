@@ -1,8 +1,6 @@
 ---
 title: Home
 hide_git_repo_link: false
-external_links:
-    process: true
 ---
 
 ## Open Educational Resources (OER)
