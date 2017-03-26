@@ -27,3 +27,4 @@ feed:
 pagination: true
 child_type: blog_item
 ---
+

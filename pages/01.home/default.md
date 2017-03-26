@@ -1,6 +1,7 @@
 ---
 title: Home
 hide_git_repo_link: false
+git_repo_link_text: 'https://www.google.com'
 ---
 
 ## Open Educational Resources (OER)
