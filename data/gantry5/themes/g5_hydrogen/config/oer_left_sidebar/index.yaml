@@ -1,5 +1,5 @@
 name: oer_left_sidebar
-timestamp: 1490445029
+timestamp: 1490556704
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -21,7 +21,7 @@ particles:
     custom-3366: 'Custom HTML'
   position:
     position-position-9637: Breadcrumbs
-    position-position-5158: Header
+    position-position-3760: Header
     position-position-4228: Footer
   messages:
     system-messages-6459: 'System Messages'
@@ -48,9 +48,8 @@ inherit:
     footer: footer
     offcanvas: offcanvas
     logo-4027: logo-2843
-    position-position-5158: position-header
+    position-position-3760: position-header
     menu-8048: menu-9182
-    edit_view_page_in_git-3554: edit_view_page_in_git-4460
     position-position-4228: position-footer
     cc_license-7537: cc_license-8818
     spacer-2473: spacer-8764

@@ -10,8 +10,7 @@ layout:
       - 'position-header 70'
   /navigation/:
     -
-      - 'menu-9182 67'
-      - 'edit_view_page_in_git-4460 33'
+      - menu-9182
   /main/:
     -
       - position-breadcrumbs
@@ -50,13 +49,6 @@ content:
   menu-9182:
     block:
       variations: align-left
-  edit_view_page_in_git-4460:
-    title: 'Edit/View Page in Git'
-    attributes:
-      git_repo_tree_url: 'https://github.com/stegrams/grav-gantr5-oer-lab/edit/master'
-    block:
-      class: git-edit
-      variations: align-right
   position-breadcrumbs:
     attributes:
       key: breadcrumbs

@@ -1,5 +1,5 @@
 name: oer_right_sidebar
-timestamp: 1490388258
+timestamp: 1490556704
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -19,7 +19,7 @@ sections:
 particles:
   position:
     position-breadcrumbs: Breadcrumbs
-    position-position-1165: Header
+    position-position-1232: Header
     position-position-5708: Footer
   messages:
     system-messages-6459: 'System Messages'
@@ -48,9 +48,8 @@ inherit:
     footer: footer
     offcanvas: offcanvas
     logo-8579: logo-2843
-    position-position-1165: position-header
+    position-position-1232: position-header
     menu-5341: menu-9182
-    edit_view_page_in_git-8868: edit_view_page_in_git-4460
     position-position-5708: position-footer
     cc_license-2655: cc_license-8818
     spacer-4125: spacer-8764

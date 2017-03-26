@@ -2,6 +2,7 @@ settings:
   title: Mainmenu
 ordering:
   home: ''
+  __particle: ''
   basic-page: ''
   blog-page: ''
   modular-page: ''
@@ -10,6 +11,7 @@ ordering:
     right-sidebar: ''
     left-sidebar: ''
   setup-guide: ''
+  __particle-nALHw: ''
 items:
   home:
     enabled: true
@@ -38,3 +40,16 @@ items:
   setup-guide:
     enabled: true
     anchor_class: ''
+  __particle-nALHw:
+    type: particle
+    particle: edit_view_page_in_git
+    title: 'Edit/View Page in Git'
+    options:
+      particle:
+        enabled: '1'
+        git_repo_link_text: 'Edit this Page'
+        git_repo_link_icon: github
+        git_repo_tree_url: 'https://github.com/stegrams/grav-gantr5-oer-lab/edit/master'
+      block:
+        extra: {  }
+    enabled: '1'
